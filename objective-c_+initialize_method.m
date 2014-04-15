@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: initialize
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: F9022097-FD7D-45DC-A790-A2EA6845386F
+// IDECodeSnippetIdentifier: 26EEF354-B0CF-4DA2-8927-87B79742E7EC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 + (void)initialize
 {
     if (self == [<#ClassName#> class]) {
