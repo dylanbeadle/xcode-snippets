@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 5AAAD9CA-9F17-4D9F-8206-FBADAB58324A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - Lifecycle
 
 - (instancetype)init
