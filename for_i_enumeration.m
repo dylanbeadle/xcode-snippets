@@ -8,5 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 for (NSUInteger i = 0; i < [self.questions count]; i++) {
-    <#cod
+    <#code#>
     }
