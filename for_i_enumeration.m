@@ -1,4 +1,4 @@
-// For i enumeration
+// For i loop
 // For
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
