@@ -8,9 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 for (NSUInteger i = 0; i < [self.questions count]; i++) {
-        GURUTaskQuestion *aQuestion = [self.questions objectAtIndex:i];
-
-        CGRect frame = CGRectMake(self.frame.origin.x + (self.frame.size.width * i), self.frame.origin.y, self.frame.size.width, self.frame.size.height);
-        GURUTaskQuestionView *questionView = [[GURUTaskQuestionView alloc] initWithFrame:frame question:aQuestion];
-        [self addSubview:questionView];
+    <#cod
     }
