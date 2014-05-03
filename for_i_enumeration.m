@@ -1,5 +1,5 @@
 // For i loop
-// For
+// For loop enumerating i times
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: E61C31A6-9B1E-484E-8CE9-9D7EDBE7C017
