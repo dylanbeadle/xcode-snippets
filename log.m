@@ -1,7 +1,7 @@
 // Log
 // Create a log entry
 //
-// IDECodeSnippetCompletionPrefix: log
+// IDECodeSnippetCompletionPrefix: clog
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: A08FC241-FE42-4879-87A3-AC44709C6CCF
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
